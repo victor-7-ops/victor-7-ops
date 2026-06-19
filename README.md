@@ -11,7 +11,7 @@
   ╚═══╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=620&lines=full-stack+developer+%2F%2F+cebu+city%2C+ph;i+build+real+products+for+real+people;next.js+%7C+typescript+%7C+supabase+%7C+vercel;from+booking+apps+to+trading+bots;cat+%2Fdev%2Fpassion+%7C+grep+%22pickleball%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=620&lines=full-stack+developer+%2F%2F+cebu+city%2C+ph;i+build+real+products+for+real+people;next.js+%7C+typescript+%7C+supabase+%7C+vercel;from+booking+apps+to+trading+bots;cat+%2Fdev%2Fpassion+%7C+grep+%22music%22)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,11 +32,11 @@ $ cat interests.txt
   → full-stack web development (next.js + supabase)
   → product-minded engineering, fast MVPs
   → automation & bots
-  → pickleball (yes, it counts as a hobby)
+  → music (making it, playing it, building tools for it)
   → indie music scene in cebu
 
 $ ls -la ./currently
-  building   → pickleball court booking platforms
+  building   → booking platforms & band tooling
   learning   → trading bots & automation
   open to    → freelance · collabs · interesting problems
 ```
